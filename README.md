@@ -42,7 +42,7 @@ yangzhiping-perspective/
   "skills": [
     {
       "name": "yangzhiping-perspective",
-      "location": "https://github.com/ncsbymtzkk-cloud/yangzhiping-perspective"
+      "location": "https://github.com/ncsbymtzkk-cloud/yangzhiping_perspective"
     }
   ]
 }
@@ -51,7 +51,7 @@ yangzhiping-perspective/
 ### 方式二：手动克隆
 
 ```bash
-git clone https://github.com/ncsbymtzkk-cloud/yangzhiping-perspective.git ~/.claude/skills/yangzhiping-perspective
+git clone https://github.com/ncsbymtzkk-cloud/yangzhiping_perspective.git ~/.claude/skills/yangzhiping-perspective
 ```
 
 ## 使用方式
