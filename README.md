@@ -33,25 +33,8 @@ yangzhiping-perspective/
 
 ## 安装方式
 
-### 方式一：opencode 配置
-
-在 `opencode.json` 中添加：
-
-```json
-{
-  "skills": [
-    {
-      "name": "yangzhiping-perspective",
-      "location": "https://github.com/ncsbymtzkk-cloud/yangzhiping_perspective"
-    }
-  ]
-}
-```
-
-### 方式二：手动克隆
-
 ```bash
-git clone https://github.com/ncsbymtzkk-cloud/yangzhiping_perspective.git ~/.claude/skills/yangzhiping-perspective
+npx nox install https://github.com/ncsbymtzkk-cloud/yangzhiping_perspective
 ```
 
 ## 使用方式
